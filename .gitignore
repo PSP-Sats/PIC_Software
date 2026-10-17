@@ -1,0 +1,25 @@
+# Build output directories
+Debug/
+Release/
+build/
+
+# Compiled Object & Binary files
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Eclipse / STM32CubeIDE local user state
+.settings/
+.metadata/
+*.launch
+.mxproject
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.osx.project
